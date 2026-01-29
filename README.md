@@ -18,11 +18,11 @@ This application provides a comprehensive analysis of Airbnb listing data with 8
 
 ## 📁 Project Structure
 
-airbnb-booking-analyzer/
-├── app.py # Main Streamlit application
-├── cleaned_data.csv # Dataset with 49 features (not in repo)
-├── requirements.txt # Python dependencies
-├── README.md # This file
+airbnb-booking-analyzer/ :
+/app.py # Main Streamlit application
+/cleaned_data.csv # Dataset 
+/requirements.txt # Dependencies
+/README.md # This file
 
 
 ## 🛠️ Installation & Setup
