@@ -33,8 +33,8 @@ airbnb-booking-analyzer/ :
 
 ```bash
 ### Step 1: Clone the Repository
-git clone https://github.com/yourusername/airbnb-listings-analysis.git
-cd airbnb-listings-analysis 
+git clone https://github.com/saiabhi26/airbnb-booking-analyzer.git
+cd airbnb-booking-analyzer 
 
 ### Step 2: Install dependencies
 pip install -r requirements.txt
