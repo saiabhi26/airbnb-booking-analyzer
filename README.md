@@ -16,15 +16,6 @@ This application provides a comprehensive analysis of Airbnb listing data with 8
 - **Host Verification Impact** - Measure trust factor on occupancy
 - **Response Time Effects** - Analyze how responsiveness influences bookings
 
-## 📁 Project Structure
-
-airbnb-booking-analyzer/ :
-/app.py # Main Streamlit application
-/cleaned_data.csv # Dataset 
-/requirements.txt # Dependencies
-/README.md # This file
-
-
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
